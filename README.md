@@ -35,11 +35,12 @@ lua
 
 +1 easy to write
 
--1 dynamically typed, code can be wrong, but it isn't immediatly obvious
+-1 dynamically typed, code can be wrong, but it isn't immediatly obvious. 
+I find dynamically typed code more confusing than statically typed code, when I revisit it after some time has passed.
 
 +1 fastest compilation
 
--1 worst performance of the lot
+-1 worst performance of the lot 
 
 +1 easiest for users to script 
 
