@@ -62,7 +62,7 @@ I find dynamically typed code more confusing than statically typed code, when I 
 
 C++: 6
 
-Rust: 5
+Rust: 4
 
 lua:2.5
 
