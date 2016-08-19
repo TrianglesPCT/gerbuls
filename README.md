@@ -10,7 +10,7 @@ c++:
 
 +1 I am already an expert with C++, and C++ is already used for engine
 
-+2 much better editor language support than lua/rust(Visual Studio/VAX vs sublime)
++2 much better editor language support than lua/rust(Visual Studio/VAX vs sublime with pluggins)
 
 +2 debugger with editor integration vastly better than lua/rust
 
