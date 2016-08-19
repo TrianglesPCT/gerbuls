@@ -16,8 +16,6 @@ c++:
 
 -1 header/src is irritating shit
 
-5
-
 rust
 
 +3 better lang than lua/c++
@@ -28,7 +26,6 @@ rust
 
 -1 terrible C API required to communicate with C++ engine
 
-4
 
 lua
 
@@ -44,7 +41,9 @@ lua
 
 +1 easiest for users to script 
 
-2
+C++: 5
+Rust: 4
+lua: 2
 
 It seems I should use C++ based on these results:(
 
