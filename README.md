@@ -8,7 +8,7 @@ c++:
 
 +1 I am already an expert with C++, and C++ is already used for engine
 
-+1 much better editor than lua/rust
++2 much better editor than lua/rust
 
 +3 debugger with editor integration vastly better than lua/rust
 
