@@ -18,6 +18,8 @@ c++:
 
 -1 header/src is irritating shit
 
+
+
 rust
 
 +3 better lang than lua/c++
@@ -27,6 +29,8 @@ rust
 +1 safe from some errors that C++ is not
 
 -1 terrible C API required to communicate with C++ engine
+
+
 
 
 lua
