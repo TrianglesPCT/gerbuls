@@ -10,13 +10,13 @@ c++:
 
 +2 much better editor than lua/rust
 
-+3 debugger with editor integration vastly better than lua/rust
++2 debugger with editor integration vastly better than lua/rust
 
 +1 built in profiler in VS with editor integration
 
 -1 header/src is irritating shit
 
-6
+5
 
 rust
 
