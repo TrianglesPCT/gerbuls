@@ -40,7 +40,7 @@ I find dynamically typed code more confusing than statically typed code, when I 
 
 +1 fastest compilation
 
--1 worst performance of the lot 
+-0.5 worst performance of the lot, although this shouldn't matter too much for if only used for gameplay
 
 +1 easiest for users to script 
 
@@ -48,7 +48,7 @@ C++: 6
 
 Rust: 4
 
-lua: 2
+lua: 2.5
 
 It seems I should use C++ based on these results:(
 
