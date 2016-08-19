@@ -30,6 +30,8 @@ rust
 
 +1 safe from some errors that C++ is not
 
++1 long term benefit of using rust, less mental tax, and rust does not allow some of C++'s irritations
+
 +1 cargo build system is much nicer than the hodgepodge of shit C++ offers
 
 -1 using rust will force 2 build systems instead of 1, negating the benefits of cargo:/
@@ -62,7 +64,7 @@ I find dynamically typed code more confusing than statically typed code, when I 
 
 C++: 6
 
-Rust: 4
+Rust: 5
 
 lua:2.5
 
