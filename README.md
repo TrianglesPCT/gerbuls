@@ -41,10 +41,10 @@ lua
 
 +1 easiest for users to script 
 
++2 fastest compilation
+
 -1 dynamically typed, code can be wrong, but it isn't immediatly obvious. 
 I find dynamically typed code more confusing than statically typed code, when I revisit it after some time has passed.
-
-+2 fastest compilation
 
 -0.5 worst performance of the lot, although this shouldn't matter too much for if only used for gameplay
 
