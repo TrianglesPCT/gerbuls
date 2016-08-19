@@ -42,7 +42,7 @@ lua
 -1 dynamically typed, code can be wrong, but it isn't immediatly obvious. 
 I find dynamically typed code more confusing than statically typed code, when I revisit it after some time has passed.
 
-+1 fastest compilation
++2 fastest compilation
 
 -0.5 worst performance of the lot, although this shouldn't matter too much for if only used for gameplay
 
@@ -54,7 +54,7 @@ C++: 6
 
 Rust: 4
 
-lua: 2
+lua:3 
 
 It seems I should use C++ based on these results:(
 
