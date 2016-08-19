@@ -14,6 +14,8 @@ c++:
 
 +1 built in profiler in VS with editor integration
 
++1 existing types created for engine can be reused
+
 -1 header/src is irritating shit
 
 rust
@@ -41,7 +43,7 @@ lua
 
 +1 easiest for users to script 
 
-C++: 5
+C++: 6
 
 Rust: 4
 
