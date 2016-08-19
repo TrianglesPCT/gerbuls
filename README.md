@@ -39,6 +39,8 @@ lua
 
 +1 easy to write
 
++1 easiest for users to script 
+
 -1 dynamically typed, code can be wrong, but it isn't immediatly obvious. 
 I find dynamically typed code more confusing than statically typed code, when I revisit it after some time has passed.
 
@@ -50,7 +52,7 @@ I find dynamically typed code more confusing than statically typed code, when I 
 
 -0.5 callbacks into lua are complicated by lua VM's being single threaded
 
-+1 easiest for users to script 
+
 
 C++: 6
 
