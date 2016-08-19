@@ -22,7 +22,7 @@ rust
 
 +3 better lang than lua/c++
 
-+1 more enjoyable to write, since less legacy BS in lang
++1 more enjoyable to write, since less legacy BS in lang(vs C++), and statically typed(vs lua)
 
 +1 safe from some errors that C++ is not
 
