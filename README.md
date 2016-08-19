@@ -42,7 +42,9 @@ lua
 +1 easiest for users to script 
 
 C++: 5
+
 Rust: 4
+
 lua: 2
 
 It seems I should use C++ based on these results:(
