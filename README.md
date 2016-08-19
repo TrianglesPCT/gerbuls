@@ -46,7 +46,9 @@ I find dynamically typed code more confusing than statically typed code, when I 
 
 -0.5 worst performance of the lot, although this shouldn't matter too much for if only used for gameplay
 
--0.5 GC and type system are severly out of sync with C++'s, causing needless complication
+-0.5 GC memory management is severly out of sync with C++'s approach, causing needless complication
+
+-0.5 callbacks into lua are complicated by lua VM's being single threaded
 
 +1 easiest for users to script 
 
@@ -54,7 +56,7 @@ C++: 6
 
 Rust: 4
 
-lua:3 
+lua:2.5
 
 It seems I should use C++ based on these results:(
 
