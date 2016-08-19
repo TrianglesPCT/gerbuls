@@ -12,7 +12,7 @@ c++:
 
 +2 much better editor language support than lua/rust(Visual Studio/VAX vs sublime with pluggins)
 
-+2 debugger with editor integration vastly better than lua/rust
++2 debugger with editor integration vastly better than anything I've found for lua/rust
 
 +1 built in profiler in VS with editor integration
 
