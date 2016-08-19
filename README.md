@@ -24,11 +24,15 @@ c++:
 
 rust
 
-+3 better lang than lua/c++
++3 more modern lang than lua/c++(Rust has:  ADT's, traits, pattern matching)
 
 +1 more enjoyable to write, since less legacy BS in lang(vs C++), and statically typed(vs lua)
 
 +1 safe from some errors that C++ is not
+
++1 cargo build system is much nicer than the hodgepodge of shit C++ offers
+
+-1 using rust will force 2 build systems instead of 1, negating the benefits of cargo:/
 
 -1 terrible C API required to communicate with C++ engine
 
@@ -58,7 +62,7 @@ I find dynamically typed code more confusing than statically typed code, when I 
 
 C++: 6
 
-Rust: 4
+Rust: 5
 
 lua:2.5
 
