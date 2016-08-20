@@ -36,7 +36,7 @@ rust
 
 -1 using rust will force 2 build systems instead of 1, negating much of the benefit of cargo
 
--1 terrible C API required to communicate with C++ engine
+-1 terrible C API required to communicate with C++ engine. Duplicating some types in rust will likely be necessary:(
 
 
 
