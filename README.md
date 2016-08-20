@@ -70,3 +70,5 @@ lua:2.5
 
 It seems I should use C++ based on these results:(
 
+When/If Rust ever gets better editor support, it should become preferred over C++
+
