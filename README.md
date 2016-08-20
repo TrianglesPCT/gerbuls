@@ -30,11 +30,11 @@ rust
 
 +1 safe from some errors that C++ is not
 
-+1 long term benefit of using rust, less mental tax, and rust does not allow some of C++'s irritations
++1 long term benefit of using rust: less mental tax, unsafety is explicit, thread safe without unsafe
 
 +1 cargo build system is much nicer than the hodgepodge of shit C++ offers
 
--1 using rust will force 2 build systems instead of 1, negating the benefits of cargo:/
+-1 using rust will force 2 build systems instead of 1, negating much of the benefit of cargo
 
 -1 terrible C API required to communicate with C++ engine
 
